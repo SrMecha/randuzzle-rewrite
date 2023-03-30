@@ -1,2 +1,4 @@
 # randuzzle
-the usual console puzzle typed for fun
+Перепись кода игры randuzzle, написанной [Harxi](https://github.com/Harxi).
+
+Репозиторий оригинала: https://github.com/Harxi/randuzzle
